@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  
   "bugs": {
     "url": "https://github.com/selim2066/building-server-with-raw-nodejs-and-typescript-m11/issues"
   },
@@ -22,5 +22,8 @@
     "@types/node": "^24.10.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
   }
 }
